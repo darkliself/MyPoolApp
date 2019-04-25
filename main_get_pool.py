@@ -2,7 +2,7 @@ import sys  # sys нужен для передачи argv в QApplication
 from PyQt5 import QtWidgets
 import mainView  # Это наш конвертированный файл дизайна
 from aceEditor import *
-from  SectionSpliter import *
+from SectionSpliter import *
 
 
 
