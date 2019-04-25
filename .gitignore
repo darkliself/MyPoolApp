@@ -91,6 +91,7 @@ env.bak/
 venv.bak/
 .idea/
 idea/
+workspace.xml
 
 # Spyder project settings
 .spyderproject
