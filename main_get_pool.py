@@ -4,8 +4,6 @@ import mainView  # Это наш конвертированный файл ди�
 from aceEditor import *
 from SectionSpliter import *
 
-
-
 class ExampleApp(QtWidgets.QMainWindow, mainView.Ui_MainWindow):
     def __init__(self):
         # Это здесь нужно для доступа к переменным, методам
